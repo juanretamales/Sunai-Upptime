@@ -1,5 +1,25 @@
 [
   {
+    "name": "localhost",
+    "url": "localhost",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "localhost",
+    "status": "down",
+    "uptime": "5.25%",
+    "uptimeDay": "5.25%",
+    "uptimeWeek": "5.25%",
+    "uptimeMonth": "5.25%",
+    "uptimeYear": "5.25%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
+  },
+  {
     "name": "Sunai Website",
     "url": "https://sunai.cl/en/",
     "icon": "https://sunai.cl/wp-content/uploads/2020/04/cropped-favicon-32x32.png",
@@ -10,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2201,
-    "timeDay": 2201,
-    "timeWeek": 2201,
-    "timeMonth": 2201,
-    "timeYear": 2201,
+    "time": 2197,
+    "timeDay": 2197,
+    "timeWeek": 2197,
+    "timeMonth": 2197,
+    "timeYear": 2197,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +48,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 253,
-    "timeWeek": 253,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "time": 295,
+    "timeDay": 295,
+    "timeWeek": 295,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Jenkins",
+    "url": "http://jenkins.sunai.cl:8080/api/json",
+    "icon": "https://www.jenkins.io/favicon.ico",
+    "slug": "jenkins",
+    "status": "down",
+    "uptime": "15.75%",
+    "uptimeDay": "15.75%",
+    "uptimeWeek": "15.75%",
+    "uptimeMonth": "15.75%",
+    "uptimeYear": "15.75%",
+    "time": 495,
+    "timeDay": 495,
+    "timeWeek": 495,
+    "timeMonth": 495,
+    "timeYear": 495,
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   }
 ]
