@@ -8,6 +8,7 @@ sites:
   - name: Sunai Website
     url: https://sunai.cl/en/
     icon: https://sunai.cl/wp-content/uploads/2020/04/cropped-favicon-32x32.png
+    
   - name: Neural
     url: https://neural.sunai.cl/
     icon: https://neural.sunai.cl/fav.ico
