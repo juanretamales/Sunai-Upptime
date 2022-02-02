@@ -3,12 +3,18 @@ owner: juanretamales # Your GitHub organization or username, where this reposito
 repo: Sunai-Upptime # The name of this repository
 
 sites:
+  - name: localhost
+    url: localhost
   - name: Sunai Website
     url: https://sunai.cl/en/
     icon: https://sunai.cl/wp-content/uploads/2020/04/cropped-favicon-32x32.png
   - name: Neural
     url: https://neural.sunai.cl/
     icon: https://neural.sunai.cl/fav.ico
+  - name: Jenkins
+    url: http://jenkins.sunai.cl:8080/api/json
+    icon: https://www.jenkins.io/favicon.ico
+    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
