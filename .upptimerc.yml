@@ -16,7 +16,7 @@ sites:
   - name: File Terminal
     check: "tcp-ping"
     url: $FTP_SERVER
-    icon: https://www.svgrepo.com/show/112825/cloud-upload-signal.svg
+    icon: https://www.svgrepo.com/show/299297/file-transfer-transfer.svg
     port: 21
     expectedStatusCodes:
       - 200
