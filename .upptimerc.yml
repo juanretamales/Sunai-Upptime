@@ -12,6 +12,17 @@ sites:
   - name: Neural
     url: https://neural.sunai.cl/
     icon: https://neural.sunai.cl/fav.ico
+
+  - name: File Terminal
+    check: "tcp-ping"
+    url: $FTP_SERVER
+    icon: https://www.svgrepo.com/show/112825/cloud-upload-signal.svg
+    port: 21
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+
   # - name: Jenkins
   #   url: http://jenkins.sunai.cl:8080/api/json
   #   icon: https://www.jenkins.io/favicon.ico
