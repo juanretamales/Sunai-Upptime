@@ -13,7 +13,7 @@
     "time": 2153,
     "timeDay": 2683,
     "timeWeek": 2100,
-    "timeMonth": 2143,
+    "timeMonth": 2142,
     "timeYear": 2153,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,20 @@
     "url": "https://neural.sunai.cl/",
     "icon": "https://neural.sunai.cl/fav.ico",
     "slug": "neural",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
     "timeDay": 654,
     "timeWeek": 394,
-    "timeMonth": 366,
+    "timeMonth": 356,
     "timeYear": 346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 1
+    }
   },
   {
     "name": "File Terminal",
