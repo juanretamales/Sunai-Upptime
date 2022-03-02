@@ -22,19 +22,19 @@
     "url": "https://neural.sunai.cl/",
     "icon": "https://neural.sunai.cl/fav.ico",
     "slug": "neural",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 654,
-    "timeWeek": 394,
-    "timeMonth": 356,
-    "timeYear": 346,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 338,
+    "timeDay": 349,
+    "timeWeek": 350,
+    "timeMonth": 346,
+    "timeYear": 338,
     "dailyMinutesDown": {
-      "2022-03-02": 1
+      "2022-03-02": 16
     }
   },
   {
