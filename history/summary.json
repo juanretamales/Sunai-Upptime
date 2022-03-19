@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2184,
-    "timeDay": 3262,
-    "timeWeek": 2463,
-    "timeMonth": 2195,
-    "timeYear": 2184,
+    "time": 2188,
+    "timeDay": 2414,
+    "timeWeek": 2543,
+    "timeMonth": 2217,
+    "timeYear": 2188,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://neural.sunai.cl/fav.ico",
     "slug": "neural",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 357,
-    "timeDay": 281,
-    "timeWeek": 334,
-    "timeMonth": 377,
-    "timeYear": 357,
+    "uptimeYear": "99.98%",
+    "time": 358,
+    "timeDay": 406,
+    "timeWeek": 352,
+    "timeMonth": 378,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2022-03-02": 16
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 91,
-    "timeDay": 89,
-    "timeWeek": 71,
-    "timeMonth": 94,
-    "timeYear": 91,
+    "time": 90,
+    "timeDay": 59,
+    "timeWeek": 68,
+    "timeMonth": 93,
+    "timeYear": 90,
     "dailyMinutesDown": {}
   }
 ]
