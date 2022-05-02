@@ -23,6 +23,16 @@ sites:
       - 201
       - 404
 
+  - name: File Terminal Services
+    check: "tcp-ping"
+    url: $FTP_SERVER2
+    icon: https://www.svgrepo.com/show/299297/file-transfer-transfer.svg
+    port: 21
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+
   # - name: Jenkins
   #   url: http://jenkins.sunai.cl:8080/api/json
   #   icon: https://www.jenkins.io/favicon.ico
