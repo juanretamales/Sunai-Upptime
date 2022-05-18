@@ -52,19 +52,19 @@
     "url": "$FTP_SERVER",
     "icon": "https://www.svgrepo.com/show/299297/file-transfer-transfer.svg",
     "slug": "file-terminal",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "95.07%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.95%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "92.85%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.93%",
     "time": 90,
     "timeDay": 56,
     "timeWeek": 86,
     "timeMonth": 87,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2022-05-18": 71
+      "2022-05-18": 103
     }
   },
   {
@@ -73,18 +73,18 @@
     "icon": "https://www.svgrepo.com/show/299297/file-transfer-transfer.svg",
     "slug": "file-terminal-services",
     "status": "down",
-    "uptime": "96.98%",
-    "uptimeDay": "51.91%",
-    "uptimeWeek": "93.13%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "96.98%",
+    "uptime": "96.85%",
+    "uptimeDay": "49.68%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "96.85%",
+    "uptimeYear": "96.85%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-18": 693
+      "2022-05-18": 725
     }
   }
 ]
