@@ -70,7 +70,7 @@
     "url": "$FTP_SERVER2",
     "icon": "https://www.svgrepo.com/show/299297/file-transfer-transfer.svg",
     "slug": "file-terminal-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -81,6 +81,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   }
 ]
